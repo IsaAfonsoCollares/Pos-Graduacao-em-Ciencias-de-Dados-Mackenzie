@@ -1,0 +1,105 @@
+10 Livros Incríveis Para Iniciar a Carreira de Analista de Dados
+10 Livros Incriveis Para Iniciar a Carreira de Analista de Dados
+Analista de Dados é atualmente uma das funções com maior crescimento no universo da Ciência de Dados. Em pouco tempo a Formação Analista de Dados entrou para o Top 3 das Formações de maior sucesso aqui na Data Science Academy e muitos processos de seleção já requerem que os candidatos tenham cursado a Formação em nosso portal.
+
+A procura por Analistas de Dados nunca foi tão grande e ainda há muito por vir. Cada vez mais as empresas percebem os benefícios em analisar dados para suportar a tomada de decisão. E com a evolução da tecnologia temos cada vez mais técnicas e ferramentas à disposição.
+
+Neste artigo listaremos para você 10 livros incríveis que ajudarão a iniciar uma carreira de sucesso como Analista de Dados. E mesmo se você já trabalha como Analista de Dados esses livros poderão ajudar a potencializar suas tarefas no dia a dia.
+
+Boa leitura.
+
+1. Storytelling with Data: A Data Visualization Guide for Business Professionals
+
+Storytelling with Data: A Data Visualization Guide for Business Professionals
+
+Seu trabalho como Analista de Dados envolverá a geração de relatórios. Este livro é uma ótima introdução à visualização de dados para fins comerciais. Você aprende os fundamentos da visualização de dados e como contar uma história com seus dados.
+
+Ele ensina você a usar o storytelling considerando o contexto e o público ao criar visualizações de dados. Isso ajuda a decidir quais gráficos usar e em qual situação.
+
+O livro também oferece vários truques sobre como melhorar suas visualizações. Ele apresenta conceitos essenciais de design e ensina maneiras de eliminar a confusão de informações, direcionar a atenção para as partes mais importantes de sua visualização e tornar os dados um ponto focal de sua história.
+
+2. Too Big to Ignore: The Business Case for Big Data
+
+Too Big to Ignore: The Business Case for Big Data 
+
+Este é o livro no qual o autor examina como as empresas e até os governos estão usando Big Data na prática.
+
+Com vários estudos de caso e citações de profissionais em todo o mundo, este livro é uma leitura obrigatória para qualquer pessoa que esteja pensando em entrar na área de análise de dados. Os leitores obterão informações valiosas sobre como transformar dados em inteligência e inteligência em conhecimento para suportar a tomada de decisão.
+
+Se não estiver familiarizado com o conceito de Big Data, acesse nosso curso gratuito: Big Data Fundamentos.
+
+3. Data Analytics Made Accessible
+
+Data Analytics Made Accessible
+
+Este é um livro conciso e conversacional sobre o campo quente e crescente da Ciência de Dados. De leitura fácil e informativa, este livro lúcido e realista aborda tudo o que é importante, com exemplos concretos, e convida o leitor a ingressar na área de análise de dados e ajudar a suprir a alta demanda por profissionais.
+
+4. Business unIntelligence: Insight and Innovation Beyond Analytics and Big Data
+
+Business unIntelligence: Insight and Innovation beyond Analytics and Big Data
+
+Oferecendo uma visão da história do campo de Inteligência de Negócios (Business Intelligence – BI), este livro oferece um ângulo único sobre Big Data e análise de dados.
+
+O livro aborda sucessos e problemas e coisas que nem sempre são discutidas abertamente no setor. O livro também explora o passado, presente e futuro do campo para refutar muitos dos equívocos relacionados à análise de dados moderna e coleta de dados.
+
+5. The Art of Statistics: How to Learn from Data
+
+The Art of Statistics: Learning from Data 
+
+Fazer análise de dados requer algum grau de conhecimento estatístico. Se você nunca foi exposto à Estatística antes, aprender com livros didáticos pode ser uma experiência confusa. A Arte da Estatística oferece uma visão geral de alto nível dos conceitos estatísticos mais importantes usados atualmente. Ele ajuda você a entender o que esperar da Estatística e como ler e usar a análise de dados estatísticos.
+
+A força deste livro é sua acessibilidade e escopo abrangente. Você ganha uma sólida alfabetização estatística e de dados com o livro e aprende maneiras de obter conhecimento a partir de dados. O livro se concentra em conceitos e conexões por trás da Matemática e demonstra seu uso por meio de vários exemplos do mundo real.
+
+Também ensina como pensar como um estatístico usando os meios científicos de fazer perguntas, articular suposições, estabelecer expectativas e interpretar resultados. Se você estiver procurando por um guia de Estatística acessível, mas bem pensado, você achará este livro valioso.
+
+6. The Data Detective: Ten Easy Rules to Make Sense of Statistics
+
+The Data Detective: Ten Easy Rules to Make Sense of Statistics
+
+O Data Detective é um pouco atípico nesta lista. Ele se concentra na relação entre estatísticas e comportamento humano.
+
+Tim Harford, um escritor de economia, repensa como usamos as estatísticas em nosso pensamento e tomada de decisão.
+
+Ele se baseia em pesquisas em ciência e psicologia para defender o uso de números para entender o comportamento humano. Embora existam outras maneiras de fazer isso, às vezes as estatísticas são a única maneira de obter informações sobre o que realmente está acontecendo.
+
+No entanto, para isso, você também precisa entender como a Estatística funciona e quais são as restrições. O livro fornece estratégias para melhorar o pensamento e tomada de decisão.
+
+Usar essas estratégias ajuda você a reconhecer e enfrentar seus preconceitos, apagar seus preconceitos e substituí-los por um conjunto melhor de características pessoais.
+
+Leia este livro se quiser usar Estatística para melhorar seu pensamento e entender melhor as pessoas, incluindo você mesmo.
+
+7. Simple SQL: Beginner’s Guide To Master SQL And Boost Career (Zero To Hero) 
+
+Simple SQL: Beginner’s Guide To Master SQL And Boost Career
+
+Os conceitos de SQL são úteis para iniciantes, Gerentes, Cientistas de Dados, Engenheiros de Dados, Arquitetos de Dados, Analistas de BI, Desenvolvedores Front-end e até mesmo pessoas que estão criando aplicativos por conta própria.
+
+Até mesmo Desenvolvedores RPA usam SQL quando precisam automatizar processos que envolvem bancos de dados.
+
+SQL é uma das habilidades mais procuradas em análise de dados !! Este livro fornece uma ajuda valiosa para quem deseja compreender e aplicar SQL no dia a dia.
+
+8. The Quick Python Book
+
+The Quick Python Book
+
+O Quick Python Book oferece um guia abrangente para a linguagem Python de Naomi Ceder, presidente da Python Software Foundation.
+
+O livro equilibra lindamente os detalhes da linguagem de programação com os insights e conselhos que os leitores podem usar para gerenciar qualquer tarefa. O autor fornece exemplos extensos e relevantes e exercícios práticos para ajudar a entender cada conceito pela primeira vez, tornando-o uma leitura obrigatória para iniciantes que se preparam para entrar no campo de análise de dados.
+
+Se quiser aprender Linguagem Python na prática, confira nosso curso gratuito: Python Fundamentos Para Análise de Dados.
+
+9. Beginning Microsoft Power BI: A Practical Guide to Self-Service Data Analytics
+
+Beginning Microsoft Power BI: A Practical Guide to Self-Service Data Analytics
+
+Este livro é um manual prático baseado em atividades que o guia pelo processo de análise de dados usando uma das ferramentas mais quentes do momento, o Microsoft Power BI.
+
+Começando com o Power Query, você aprenderá a obter dados de várias fontes e verá como é fácil limpar e moldar os dados antes de importá-los para um modelo de dados. Usando o Power BI e as expressões de análise de dados (DAX), você aprenderá a criar modelos de dados escaláveis robustos que servirão como base de sua análise de dados.
+
+A partir daí, você entrará no mundo de visualizações interativas atraentes para analisar e obter informações sobre os dados. Você encerrará sua jornada do Power BI aprendendo como empacotar e compartilhar seus relatórios e painéis com seus colegas ou clientes.
+
+10. Everything Data Analytics-A Beginner’s Guide to Data Literacy
+
+Everything Data Analytics
+
+Deseja iniciar uma carreira como profissional de dados, mas não sabe por onde começar? Então este livro irá ajudá-lo a obter o conhecimento necessário para seguir uma carreira incrível como profissional de dados.
