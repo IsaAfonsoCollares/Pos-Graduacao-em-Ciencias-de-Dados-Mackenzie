@@ -30,9 +30,9 @@ class ImdbSpider(scrapy.Spider):
     def parse_text(self, response, title, year, rating, link):
 
         conteudo = {
-            'title': title,
-            'year': year,
-            'rating': rating,
+            'titulo': title,
+            'ano': year,
+            'nota': rating,
             'genero': response.xpath('//span[@class="ipc-chip__text"]//text()').get(),
             'diretor': response.xpath('//a[@class="ipc-metadata-list-item__list-content-item '
                                           'ipc-metadata-list-item__list-content-item--link"]//text('
