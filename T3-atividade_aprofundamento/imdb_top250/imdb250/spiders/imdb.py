@@ -15,6 +15,17 @@ class ImdbSpider(scrapy.Spider):
     allowed_domains = ["imdb.com"]
     start_urls = ['https://www.imdb.com/chart/top/?ref_=nv_mv_250']
 
+    custom_settings = {
+        'LOG_LEVEL': 'DEBUG',
+        'FEEDS': {
+            'imdb_top250.csv': {
+                'format': 'csv',
+                'overwrite': True
+            }
+        },
+        'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, '
+                      'like Gecko) Chrome/102.0.0.0 Safari/537.36'
+    }
     def parse(self, response):
         for filmes in response.css('.lister-list tr'):
             link_raw = filmes.css(".titleColumn a::attr(href)").get()
@@ -39,8 +50,7 @@ class ImdbSpider(scrapy.Spider):
                                          ')').get(),
             'url': link
             }
-        with open('IMDB_top250.csv', 'a', newline='', encoding="utf-8") as output_file:
-            dict_writer = csv.DictWriter(output_file, conteudo.keys())
-            dict_writer.writeheader()
-            dict_writer.writerows([conteudo])
+       # with open('IMDB_top250.csv', 'a', newline='', encoding="utf-8") as output_file:
+            #dict_writer = csv.DictWriter(output_file, conteudo.keys())
+            #dict_writer.writerows([conteudo])
         yield conteudo
