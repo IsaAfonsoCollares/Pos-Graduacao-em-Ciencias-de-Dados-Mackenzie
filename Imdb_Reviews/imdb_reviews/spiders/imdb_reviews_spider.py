@@ -20,10 +20,6 @@ class ImdbReviewsSpider(scrapy.Spider):
     def parse(self, response):
         for review in response.css(".review-container"):
             yield {
-                "title": review.css(".title::text").get().strip(),
-                "author": review.css(".display-name-link a::text").get(),
-                "date": review.css(".review-date::text").get(),
-                "rating": review.css(".rating-other-user-rating span::text").get(),
                 "text": review.css(".text::text").get().strip().encode("utf-8"),
             }
 
