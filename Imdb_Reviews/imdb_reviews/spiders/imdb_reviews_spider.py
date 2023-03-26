@@ -9,7 +9,7 @@ class ImdbReviewsSpider(scrapy.Spider):
     custom_settings = {
         'LOG_LEVEL': 'DEBUG',
         'FEEDS': {
-            'reviwes.csv': {
+            'reviews.csv': {
                 'format': 'csv',
                 'overwrite': True
             }
